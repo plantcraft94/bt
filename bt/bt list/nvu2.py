@@ -9,3 +9,4 @@ tong = sum(A)
 tbc = tong/n
 
 print(f"Tổng các số trong list là: {tong}, trung bình cộng là: {tbc}")
+print(A)
